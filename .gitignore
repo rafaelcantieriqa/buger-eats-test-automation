@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+
+# Cypress outputs
+cypress/videos/
+cypress/screenshots/
+
+# Logs
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Cache do sistema
+.DS_Store
+
+# Arquivos temporários
+npm-debug.log
+yarn-error.log
